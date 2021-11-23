@@ -1,0 +1,15 @@
+.DS_Store
+/dist
+.thumbs.db
+
+__pycache__
+db.sqlite3
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
